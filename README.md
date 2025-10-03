@@ -26,7 +26,8 @@ Enterprise Challenge - Sprint 4 - Reply
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">ANDRÉ GODOI CHIOVATO</a>
 
-#ABAIXO SEGUE O MERGE DE TODOS AS EXPLICAÇÕES DAS ETAPAS PASSADAS
+# ABAIXO SEGUE O MERGE DE TODOS AS EXPLICAÇÕES DAS ETAPAS PASSADAS
+
 Adicionamos uma interaface gráfica com streamlit que contempla uma vizualição ampla dos dados, também 
 
 ## 📜 Justificativa do problema e descrição da solução proposta
