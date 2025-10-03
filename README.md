@@ -182,7 +182,7 @@ Importante frisar que essa transformação não pode ser automatizada devido a l
 Para mais detalhes, voê pode acessar o projeto diretamente da plataforma da wokwi através do link abaixo:
 - https://wokwi.com/projects/433610122638702593
   
-### Análise Exploratória de Dados Simulados de Sensores Industriais
+# Análise Exploratória de Dados Simulados de Sensores Industriais
 
 Contexto Geral
 Este projeto tem como objetivo demonstrar a capacidade analítica do grupo frente a dados obtidos por sensores em um ambiente industrial simulado. Apesar dos dados utilizados serem totalmente simulados e com baixa ou nenhuma correlação realista, a estrutura do código busca refletir um cenário prático de monitoramento e análise de sensores como temperatura, umidade e vibração.
