@@ -311,34 +311,6 @@ Nota crítica: com dados reais, esperaria-se uma correlação positiva entre tem
 - Desenvolvimento do algoritmo de análise gráfica: <a href="https://www.linkedin.com/company/inova-fusca">Jonathan Willian Luft </a> e <a href="https://www.linkedin.com/company/inova-fusca">Fatima Candal</a>
 - Testes de Sensores: <a href="https://www.linkedin.com/company/inova-fusca">Gabriel Viel </a>, <a href="https://www.linkedin.com/company/inova-fusca"> Matheus Alboredo Soares</a>,  e <a href="https://www.linkedin.com/company/inova-fusca">Guilherme  Campos Hermanowski </a>
 
-# Enterprise-Challenge---Sprint-1
-Enterprise Challenge - Sprint 1 - Reply
-# FIAP - Inteligência artificial e data science
-
-<p align="center">
-<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
-</p>
-
-<br>
-
-# Nome do projeto
-Cap 3 - Colheita de Dados e Insights - dados valiosos e maduros - Enterprise Challenge - Sprint 1
-
-## Nome do grupo
-39
-
-## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Guilherme Campos Hermanowski </a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Gabriel Viel </a>
-- <a href="https://www.linkedin.com/company/inova-fusca"> Matheus Alboredo Soares</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Jonathan Willian Luft </a>
-
-## 👩‍🏫 Professores:
-### Tutor(a) 
-- <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Ruiz Orabona</a>
-### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">ANDRÉ GODOI CHIOVATO</a>
-
 
 ## 📜 Justificativa do problema e descrição da solução proposta
 
