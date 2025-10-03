@@ -28,7 +28,7 @@ Enterprise Challenge - Sprint 4 - Reply
 
 # ABAIXO SEGUE O MERGE DE TODOS AS EXPLICAÇÕES DAS ETAPAS PASSADAS
 
-Adicionamos uma interaface gráfica com streamlit que contempla uma vizualição ampla dos dados, também 
+Adicionamos uma interface gráfica com Streamlit que contempla uma visualização ampla dos dados, também contemplando as análises de machine learning desenvolvidas nas sprints anteriores, proporcionando uma experiência interativa e intuitiva para monitoramento industrial. Em nosso pipeline implementamos gatilhos e alertas via SMS e email que aparecem integrados no dashboard, permitindo notificações automáticas quando condições irregulares são detectadas pelos modelos de predição de falhas.
 
 ## 📜 Justificativa do problema e descrição da solução proposta
 
