@@ -1,6 +1,5 @@
 # Enterprise-Challenge---Sprint-4---Reply
-# Enterprise-Challenge---Sprint-1
-Enterprise Challenge - Sprint 1 - Reply
+
 # FIAP - Inteligência artificial e data science
 
 <p align="center">
@@ -10,7 +9,7 @@ Enterprise Challenge - Sprint 1 - Reply
 <br>
 
 # Nome do projeto
-Cap 3 - Colheita de Dados e Insights - dados valiosos e maduros - Enterprise Challenge - Sprint 1
+Enterprise Challenge - Sprint 4 - Reply
 
 ## Nome do grupo
 39
@@ -101,8 +100,6 @@ Com foco no monitoramento e previsão de falhas em equipamentos de produção, u
 ![Pipeline AWS](https://github.com/user-attachments/assets/5eab299f-b2ad-4ea4-81e9-da8b4054551b)
 
 
-
-
 ## 🔧 Funcionamento
 
 O sistema utiliza uma arquitetura de monitoramento inteligente na AWS, integrando sensores físicos, banco de dados, machine learning e notificações automatizadas. O ESP32 envia dados de sensores (volume de produção, temperatura, umidade e vibração) via MQTT para o AWS IoT Core, com comunicação segura por TLS e autenticação por certificados. Esses dados são roteados para uma função AWS Lambda, que grava as informações no Amazon RDS, um banco relacional gerenciado e seguro.
@@ -122,45 +119,6 @@ Para observabilidade, o Amazon CloudWatch coleta métricas e logs de todos os se
 - Treinamento de IA: <a href="https://www.linkedin.com/company/inova-fusca"> Matheus Alboredo Soares</a> 
 - Integração de Features: <a href="https://www.linkedin.com/company/inova-fusca">Gabriel Viel </a>, <a href="https://www.linkedin.com/company/inova-fusca"> Matheus Alboredo Soares</a>, <a href="https://www.linkedin.com/company/inova-fusca">Jonathan Willian Luft </a> e <a href="https://www.linkedin.com/company/inova-fusca">Guilherme  Campos Hermanowski </a>
 
-# Enterprise Challenge Sprint-2---Reply-sensores-e-graficos-
-
-Enterprise Challenge - Sprint 1 - Reply
-# FIAP - Inteligência artificial e data science
-
-<p align="center">
-<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
-</p>
-
-<br>
-
-# Nome do projeto
-Fase 4 - Enterprise Challenge - Sprint 2
-
-## Nome do grupo
-20
-
-## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Guilherme Campos Hermanowski </a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Gabriel Viel </a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Fatima Candal</a>
-- <a href="https://www.linkedin.com/company/inova-fusca"> Matheus Alboredo Soares</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Jonathan Willian Luft </a>
-
-## 👩‍🏫 Professores:
-### Tutor(a) 
-- <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Ruiz Orabona</a>
-### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">ANDRÉ GODOI CHIOVATO</a>
-
-
-## 📜 Justificativa do problema e descrição da solução proposta
-
-<br>
-
-Em cenários de produção onde há um grande número de maquinário atuando, é rotineiro que diferentes tipos de erros e falhas que acabem por gerar prejuízos e atrapalhar no andamento da produção aconteçam.
-Mas e se esses prejuízos e paradas na produção pudessem ser previstos, e assim, antecipadamente evitados, dessa otimizando os processos de melhorando o fluxo de trabalho da empresa? É a partir dessa visão de negócio que surge nosso projeto. 
-</p>
-Nessa primeira etapa, focamos na construção de um algoritmo de simulação de sensores de monitoramento em equipamentos de produção, que posteriormente podem ser utilizados em dispositivos físicos reais, mas neste primeiro momento só simulamos para testes. Utilizando de sensores de temperatura, vibração, umidade e volume de produção, extraimos suas informações para um arquivo csv que posteriormente será utilizado para geração de gráficos para uma melhor análise e tomada de decisão.
 
 ## 🔧 Componentes
 **Definição das tecnologias que serão utilizadas (linguagens de programação, sensores, plataformas de simulação, etc.):**
@@ -303,28 +261,6 @@ Nota crítica: com dados reais, esperaria-se uma correlação positiva entre tem
 - Desenvolvimento do algoritmo de análise gráfica: <a href="https://www.linkedin.com/company/inova-fusca">Jonathan Willian Luft </a> e <a href="https://www.linkedin.com/company/inova-fusca">Fatima Candal</a>
 - Testes de Sensores: <a href="https://www.linkedin.com/company/inova-fusca">Gabriel Viel </a>, <a href="https://www.linkedin.com/company/inova-fusca"> Matheus Alboredo Soares</a>,  e <a href="https://www.linkedin.com/company/inova-fusca">Guilherme  Campos Hermanowski </a>
 
-# Enterprise Challenge - Sprint 3 - Reply
-
-# FIAP - Inteligência artificial e data science
-
-<p align="center">
-<a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
-</p>
-
-## Nome do grupo
-25
-
-## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Guilherme Campos Hermanowski </a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Gabriel Viel </a>
-- <a href="https://www.linkedin.com/company/inova-fusca"> Matheus Alboredo Soares</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Jonathan Willian Luft </a>
-
-## 👩‍🏫 Professores:
-### Tutor(a) 
-- <a href="https://www.linkedin.com/company/inova-fusca">Leonardo Ruiz Orabona</a>
-### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">ANDRÉ GODOI CHIOVATO</a>
 
 ## 🔧 Análise e Construção de Modelos
 # Análise dos Modelos de Machine Learning
